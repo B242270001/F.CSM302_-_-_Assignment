@@ -1,0 +1,31 @@
+{
+  "id": "S11",
+  "input": [
+    "abc",
+    "5",
+    "1.0",
+    "1.5"
+  ],
+  "shots": [
+    {
+      "name": "S11",
+      "status": "●  INVALID INPUT",
+      "served": 0,
+      "turned_away": 0,
+      "waiting": [],
+      "current": null,
+      "ta_state": "SLEEPING",
+      "events": 0
+    }
+  ],
+  "status": "●  INVALID INPUT",
+  "served": 0,
+  "turned_away": 0,
+  "waiting": [],
+  "current": null,
+  "ta_state": "SLEEPING",
+  "events": 0,
+  "errors": [
+    "Invalid configuration: 'Сандлын тоо' нь бүхэл тоо байх ёстой (оруулсан: 'abc')."
+  ]
+}

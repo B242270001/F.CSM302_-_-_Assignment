@@ -1,0 +1,31 @@
+{
+  "id": "S10",
+  "input": [
+    "25",
+    "5",
+    "1.0",
+    "1.5"
+  ],
+  "shots": [
+    {
+      "name": "S10",
+      "status": "●  INVALID INPUT",
+      "served": 0,
+      "turned_away": 0,
+      "waiting": [],
+      "current": null,
+      "ta_state": "SLEEPING",
+      "events": 0
+    }
+  ],
+  "status": "●  INVALID INPUT",
+  "served": 0,
+  "turned_away": 0,
+  "waiting": [],
+  "current": null,
+  "ta_state": "SLEEPING",
+  "events": 0,
+  "errors": [
+    "Invalid configuration: Сандлын тоо 0-20 хооронд бүхэл тоо байна."
+  ]
+}
