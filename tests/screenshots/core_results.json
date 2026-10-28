@@ -1,0 +1,104 @@
+{
+  "S1": {
+    "input": [
+      3,
+      5,
+      1.0,
+      1.5
+    ],
+    "seconds": 20,
+    "served": 11,
+    "turned_away": 11,
+    "seated": 15,
+    "ta_wakes": 1,
+    "ta_sleeps": 0,
+    "max_queue": 3,
+    "events": 52,
+    "threads_left": 0
+  },
+  "S2": {
+    "input": [
+      1,
+      10,
+      0.3,
+      1.5
+    ],
+    "seconds": 20,
+    "served": 11,
+    "turned_away": 434,
+    "seated": 13,
+    "ta_wakes": 1,
+    "ta_sleeps": 0,
+    "max_queue": 1,
+    "events": 473,
+    "threads_left": 0
+  },
+  "S3": {
+    "input": [
+      10,
+      3,
+      1.5,
+      0.5
+    ],
+    "seconds": 20,
+    "served": 20,
+    "turned_away": 0,
+    "seated": 22,
+    "ta_wakes": 11,
+    "ta_sleeps": 10,
+    "max_queue": 2,
+    "events": 86,
+    "threads_left": 0
+  },
+  "S4": {
+    "input": [
+      0,
+      5,
+      0.5,
+      1.0
+    ],
+    "seconds": 15,
+    "served": 0,
+    "turned_away": 120,
+    "seated": 0,
+    "ta_wakes": 0,
+    "ta_sleeps": 0,
+    "max_queue": 0,
+    "events": 122,
+    "threads_left": 0
+  },
+  "S5": {
+    "input": [
+      1,
+      1,
+      2.0,
+      0.5
+    ],
+    "seconds": 20,
+    "served": 6,
+    "turned_away": 0,
+    "seated": 6,
+    "ta_wakes": 6,
+    "ta_sleeps": 6,
+    "max_queue": 1,
+    "events": 32,
+    "threads_left": 0
+  },
+  "S6": {
+    "input": [
+      20,
+      50,
+      0.2,
+      0.5
+    ],
+    "seconds": 20,
+    "served": 33,
+    "turned_away": 2451,
+    "seated": 54,
+    "ta_wakes": 1,
+    "ta_sleeps": 0,
+    "max_queue": 20,
+    "events": 2575,
+    "threads_left": 0
+  }
+}

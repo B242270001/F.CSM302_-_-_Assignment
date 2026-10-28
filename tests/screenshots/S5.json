@@ -1,0 +1,39 @@
+{
+  "id": "S5",
+  "input": [
+    "1",
+    "1",
+    "2.0",
+    "0.5"
+  ],
+  "shots": [
+    {
+      "name": "S5_sleeping",
+      "status": "●  RUNNING",
+      "served": 1,
+      "turned_away": 0,
+      "waiting": [],
+      "current": null,
+      "ta_state": "SLEEPING",
+      "events": 6
+    },
+    {
+      "name": "S5",
+      "status": "●  RUNNING",
+      "served": 6,
+      "turned_away": 0,
+      "waiting": [],
+      "current": null,
+      "ta_state": "SLEEPING",
+      "events": 31
+    }
+  ],
+  "status": "●  RUNNING",
+  "served": 6,
+  "turned_away": 0,
+  "waiting": [],
+  "current": null,
+  "ta_state": "SLEEPING",
+  "events": 31,
+  "errors": []
+}

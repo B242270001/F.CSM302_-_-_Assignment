@@ -1,0 +1,47 @@
+{
+  "id": "S1",
+  "input": [
+    "3",
+    "5",
+    "1.0",
+    "1.5"
+  ],
+  "shots": [
+    {
+      "name": "S1_ready",
+      "status": "●  READY",
+      "served": 0,
+      "turned_away": 0,
+      "waiting": [],
+      "current": null,
+      "ta_state": "SLEEPING",
+      "events": 0
+    },
+    {
+      "name": "S1",
+      "status": "●  RUNNING",
+      "served": 9,
+      "turned_away": 12,
+      "waiting": [
+        4,
+        3,
+        2
+      ],
+      "current": 0,
+      "ta_state": "HELPING",
+      "events": 46
+    }
+  ],
+  "status": "●  RUNNING",
+  "served": 9,
+  "turned_away": 12,
+  "waiting": [
+    4,
+    3,
+    2
+  ],
+  "current": 0,
+  "ta_state": "HELPING",
+  "events": 46,
+  "errors": []
+}
