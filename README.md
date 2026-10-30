@@ -24,7 +24,11 @@ Silberschatz, *Operating System Concepts* (10th Edition), Chapter 7, Programming
 |---|---|
 | Хуваарилалтын код | II-4-10 |
 | Сэдэв | The Sleeping Teaching Assistant |
-| Гишүүд | _(гишүүдийн нэр, оюутны кодыг энд бичнэ)_ |
+| Гишүүд | А.Төгөлдөр,B242270001
+           Ц.Цогтжаргал,B2451940005
+           Д.Отгон-Эрдэнэ,B222270083
+           О.Цэрэнлхавга,B232270113
+           Г.Түвшинсайхан,B242270085 |
 | GitHub | https://github.com/B242270001/II-4-10_SleepingTeachingAssistant |
 
 ---
